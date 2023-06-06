@@ -2,8 +2,9 @@
 <div align="center">
   <b align="center", font-size=40px> An BOT for TicTacToe</b>
   <p></p>
-  <img src="https://github.com/Jaspermusic/TicTacToe/assets/98389752/07550112-ca5e-49d4-832a-da456e67d08c" />
+  <img height="350" src="https://github.com/Jaspermusic/TicTacToe/assets/98389752/f5518683-453b-4fe7-bbec-0f4fdbf5f0de" />
 </div>
+
 
 
 ## Features:
